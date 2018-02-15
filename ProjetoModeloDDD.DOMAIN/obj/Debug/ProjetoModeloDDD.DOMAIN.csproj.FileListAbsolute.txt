@@ -1,6 +1,6 @@
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.DOMAIN\bin\Debug\ProjetoModeloDDD.DOMAIN.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.DOMAIN\bin\Debug\ProjetoModeloDDD.DOMAIN.pdb
-C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.DOMAIN\obj\Debug\ProjetoModeloDDD.DOMAIN.csprojResolveAssemblyReference.cache
-C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.DOMAIN\obj\Debug\ProjetoModeloDDD.DOMAIN.csproj.CoreCompileInputs.cache
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.DOMAIN\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.DOMAIN\obj\Debug\ProjetoModeloDDD.DOMAIN.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.DOMAIN\obj\Debug\ProjetoModeloDDD.DOMAIN.pdb
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.DOMAIN\obj\Debug\ProjetoModeloDDD.Domain.csprojResolveAssemblyReference.cache

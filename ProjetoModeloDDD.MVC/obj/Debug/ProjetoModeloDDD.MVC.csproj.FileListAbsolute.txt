@@ -29,6 +29,8 @@ C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -39,6 +41,7 @@ C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Applicatio
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
@@ -47,6 +50,11 @@ C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.DOMAIN.dll
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll.config
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
@@ -62,6 +70,7 @@ C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.Depende
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.Web.xml
+C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.DOMAIN.pdb
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CoreCompileInputs.cache
 C:\git\ProjetoDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
